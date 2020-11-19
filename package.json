@@ -1,0 +1,17 @@
+{
+  "name": "paola12tut.sistemanegocio",
+  "version": "1.0.0",
+  "description": "negocio web",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.9.1",
+    "jquery": "^3.5.1",
+    "jquery-mobile": "^1.5.0-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "perla paola tut matos <paola12tut@gmai.com>",
+  "license": "ISC"
+}

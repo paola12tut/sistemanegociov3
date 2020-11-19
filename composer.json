@@ -1,0 +1,17 @@
+{
+    "name": "paola12tut/sistemanegocio",
+    "description": "proyecto de artesonline",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.1",
+        "illuminate/database": "^8.13",
+        "illuminate/events": "^8.13"
+    },
+    "authors": [
+        {
+            "name": "perla paola tut matos",
+            "email": "paola12tut@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
